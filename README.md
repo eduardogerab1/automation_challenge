@@ -68,6 +68,6 @@ allure serve allure-results
 ## Autor
 
 **Eduardo Gerab**
-[GitHub: evog-jpg](https://github.com/evog-jpg)
+(https://github.com/eduardogerab1)
 
 ---
