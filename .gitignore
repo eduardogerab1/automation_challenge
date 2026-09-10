@@ -1,0 +1,47 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+tests_web/test_components
+
+# ===== Virtual Environments =====
+venv/
+.venv/
+env/
+ENV/
+myproject/
+pyvenv.cfg
+
+# ===== Logs & Reports =====
+logs/
+*.log
+*.out
+*.err
+reports/
+allure-results/
+test_durations.log
+
+# ===== Pytest Cache =====
+.pytest_cache/
+.cache/
+.coverage
+coverage.xml
+
+# ===== IDE / OS =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ===== Temporary Files =====
+tmp/
+temp/
+*.tmp
+
+# ===== Selenium / Automation =====
+screenshots/
+output/
+__results__/
+selenium-screenshots/
